@@ -438,7 +438,7 @@ svg{
     line-height: 25px;
 }
 .dxe-services svg{
-    width: 50px;
+    width: 50px!important;
 }
 .dxe-services .section-title{
     margin-bottom: 60px!important;
