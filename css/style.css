@@ -1,0 +1,445 @@
+/**************************************************HEADER CSS***********************************************/
+.dxe-desktop-header{
+    background: #fff;
+}
+.dxe-desktop-header .logo{
+    width:100%;
+    max-width: 238px;
+    line-height:85px;
+}
+.dxe-desktop-header ul{
+    list-style: none;
+    text-transform: uppercase;
+    margin: 0px;
+    cursor: pointer;
+}
+.dxe-desktop-header .dxe-sub-nav .sub-ul{
+    height: 30px;
+}
+.dxe-desktop-header .dxe-main-nav .main-ul{
+    height: 22px;
+}
+.dxe-desktop-header .submain-ul li{
+    display: inline-block;
+    position: relative!important;
+}
+.dxe-desktop-header .dxe-sub-nav ul li{
+    padding:0 10px;
+}
+.dxe-desktop-header .dxe-main-nav ul li{
+    padding:0 15px;
+}
+.dxe-desktop-header ul li:last-child{
+    padding-right:initial;
+}
+.dxe-desktop-header ul li a{
+    text-decoration: none;
+}
+.dxe-desktop-header .dxe-sub-nav ul li a{
+    color:#aaacb2;
+    font-weight:bold;
+    font-size:12px;
+    padding-top: 10px;
+}
+.dxe-desktop-header .dxe-main-nav ul li a{
+    color:#000;
+    font-weight:bold;
+    font-size:15px;
+    padding-bottom: 10px;
+}
+.dxe-desktop-header .dxe-main-nav img{
+    width:10px;
+    margin-top:-2px;
+}
+.dxe-desktop-header .dxe-sub-nav,
+.dxe-desktop-header .dxe-main-nav{
+    text-align: right;
+}
+.dxe-desktop-header .submain-ul li a{
+    padding: 2.5px 0;
+    
+}
+.dxe-desktop-header .main-ul li .hover-under-effect{
+    border-bottom: 4px solid #808100;
+}
+.dxe-desktop-header .sub-ul li a:hover{
+    border-top: 4px solid #808100;
+}
+.dxe-desktop-header .main-ul li a:hover{
+    border-bottom: 4px solid #808100;
+}
+.dxe-desktop-header li a:hover .caret-image{
+    transform:rotate(-180deg);
+    -ms-transform:rotate(-180deg);
+    -moz-transform:rotate(-180deg);
+    -webkit-transform:rotate(-180deg);
+    -o-transform:rotate(-180deg);
+    transition: all 0.4s ease;
+}
+.dxe-dropdown{
+    display: none;
+    position: absolute;
+    top: 33px;
+    left: 15px;
+    background: #eee;
+    padding: 10px;
+    z-index: 9999999;
+}
+.dxe-dropdown ul{
+    display: block;
+    margin: initial;
+    padding: initial;
+}
+.dxe-dropdown ul li{
+    width: 138px;
+    padding: 10px!important;
+    text-align: left;
+}
+li:hover .dxe-dropdown{
+    display: block;
+}
+.dxe-desktop-header .sub-ul{
+    margin-bottom: 5px;
+}
+.dxe-desktop-header .main-ul{
+    margin-top: 5px;
+}
+.line-height-15{
+    line-height: 17px;
+}
+.dxe-dropdown ul li a{
+    padding-bottom: 5px !important;
+}
+.dxe-dropdown li:first-child{
+    padding-top: 5px!important;
+}
+.dxe-mobile-header a .logo{
+    max-width: 170px!important;
+}
+#navbarNavDropdown ul{
+    text-align: center!important;
+}
+/**************************************************FOOTER CSS***********************************************/
+.dxe-footer{
+    background: #fff;
+    color: #111;
+    border-top: 1px solid #ccc;
+    position: relative;
+}
+.footer__content{
+    display: -webkit-box;      
+    display: -moz-box;         
+    display: -ms-flexbox;      
+    display: -webkit-flex;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    -webkit-flex-wrap: wrap;
+    -moz-flex-wrap: wrap;
+    -o-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+.footer__logo {
+    width: 20%;
+}
+.footer__nav{
+    display: -webkit-box;      
+    display: -moz-box;         
+    display: -ms-flexbox;      
+    display: -webkit-flex;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    -webkit-flex-wrap: wrap;
+    -moz-flex-wrap: wrap;
+    -o-flex-wrap: wrap;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 30%;
+}
+.footer__main-nav{
+    text-transform: uppercase;
+}
+.footer__subscribe {
+    padding-left: 45px;
+    width: 50%;
+}
+.dxe-footer li a{
+    text-decoration: none;
+    color: #111;
+}
+.dxe-footer ul{
+    list-style: none;
+    padding: initial!important;
+}
+.footer__logo, .footer__nav {
+    border-right: 1px solid #ccc;
+}
+.footer__logo, .footer__nav, .footer__subscribe {
+    padding-top: 35px;
+}
+.footer__main-nav a {
+    font-size: 15px;
+    line-height: 2.984;
+    font-weight: 600;
+}
+.footer__subscribe-description-title {
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 2.984;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+.footer__subscribe-description-heading{
+    font-size: 33px;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+.footer__subscribe-description-text{
+    font-size: 15px;
+    margin-bottom: 65px;
+    font-weight: 500;
+}
+.dxe__subscribe input{
+    border-radius: initial !important;
+    background: #ddd;
+    border: 0;
+    width: 100%;
+    height: 40px;
+    color: #111;
+    padding-left: 10px;
+    
+}
+.dxe__subscribe input:focus{
+    box-shadow: initial!important;
+    background: #ddd;
+    outline: 1px solid #111;
+}
+.dxe__subscribe button{
+    border-radius: initial !important;
+    background: transparent!important;
+    border: 1px solid #111;
+    color: #111;
+}
+.dxe__subscribe .btn-primary:hover {
+    color: #fff;
+    background: #111!important;
+    border-color: initial!important;
+    border: 1px solid #111!important;
+}
+.social__connect{
+    font-size: 12.5px;
+    font-weight: 700;
+    margin: 40px 0 35px;
+}
+.social__connect span:first-child{
+    vertical-align: middle;
+}
+.social__connect span{
+    margin-right: 25px;
+}
+svg{
+    fill: #111;
+}
+.footer__logo-image{
+    width: 100%;
+    max-width: 170px;
+}
+.footer__copyright {
+    border-top: 1px solid #ccc;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.footer__copyright-info {
+    font-size: 15px;
+    font-weight: 600;
+    text-align: left;
+}
+
+/**************************************************HOME PAGE CSS***********************************************/
+.dxe-hero-image{
+    background: url('https://i1.wp.com/digitxevents.com/wp-content/uploads/2021/pro/hero-land.webp') no-repeat fixed 50% / cover;
+    width:100%;
+    padding: 140px 0 210px;
+    position: relative;
+}
+/*.dxe-overlay{
+    position: absolute;
+    background: black;
+    opacity: 0.3;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+}*/
+.dxe-hero-image .container{
+    position: relative;
+    z-index: 111;
+}
+.home-header-content__heading{
+    font-size: 50px;
+    font-weight: 700;
+    color: #fff;
+}
+.home-header-content__description {
+    font-size: 25px;
+    line-height: 30px;
+    padding-right: 30%;
+    color: #fff;
+}
+.dxe-button-wrap{
+    margin-top: 50px;
+}
+.dxe-button{
+    padding: 12px 20px;
+    background: #dbdb18;
+    text-decoration: none;
+    color: #000 !important;
+    font-size: 16px;
+    font-weight: 700;
+    transition: all 0.3s ease;
+    text-transform: uppercase;
+    letter-spacing: .5px;
+}
+.dxe-button:hover{
+    background: #8f8f11;
+}
+
+.dxe-image-text img{
+    width: 100%;
+}
+.image-text-title-one,
+.image-text-title-two{
+    color: #111;
+    font-weight: 600;
+    font-size: 25px;
+}
+.image-text-des-one,
+.image-text-des-two{
+    color:#555;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26px;
+    margin-bottom: 50px;
+}
+.image-text-button-one a,
+.image-text-button-two a{
+    border: 1px solid #111!important;
+    text-decoration: none;
+    color: #111!important;
+    padding: 12px 20px;
+    font-weight: 600;
+    font-size: 16px;
+    transition: all 0.3s ease;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+.image-text-button-one a:hover,
+.image-text-button-two a:hover{
+    color: #fff!important;
+    background: #111;
+    border: none;
+}
+.hero-footer-bg{
+    background: url('https://i1.wp.com/digitxevents.com/wp-content/uploads/2021/pro/hero-footer.webp')  no-repeat fixed 50% / cover;
+    background-size: cover;
+    color: #fff;
+    padding: 90px 15px 140px;
+    padding-bottom: 140px;
+    position: relative;
+    text-align: center;
+}
+.herofooter__sub-heading{
+    font-size: 18px;
+    color: #dbdb18;
+    font-weight: 700;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+.herofooter__heading{
+    font-size: 75px;
+    color: #fff;
+    font-weight: 700;
+    letter-spacing: 2px;
+    padding-left: 20%;
+    padding-right: 20%;
+    margin-bottom: 50px;
+    margin-top: 20px;
+}
+.herofooter_button{
+    padding: 12px 20px;
+    background: #dbdb18;
+    text-decoration: none;
+    color: #000 !important;
+    font-size: 16px;
+    font-weight: 700;
+    transition: all 0.3s ease;
+    text-transform: uppercase;
+    letter-spacing: .5px;
+}
+.herofooter_button:hover {
+    background: #8f8f11;
+}
+.dxe-testimonial,
+.dxe-services{
+    background: #efefef;
+}
+.section-title{
+    font-size:33px;
+    text-transform: uppercase;
+    font-weight:700;
+    letter-spacing: 1px;
+}
+.tesimonial-card{
+    width:calc(33% - 30px);
+    border-radius: 20px;
+    position: relative;
+    word-break: break-word;
+    padding: 30px;
+    border: 1px solid #fff;
+    box-shadow: 0 10px 20px #00000029;
+    background: #fff;
+}
+.quote-image img{
+    width:50px;
+    margin-bottom:50px;
+}
+.tesimonial-card p{
+    text-align:center;
+    font-weight:600;
+}
+.designation{
+    font-weight:700;
+    margin-top:100px;
+    color:#000;
+    font-size: 18px;
+}
+.name{
+    font-weight:700;
+    color:crimson;
+}
+.client{
+    width: calc(25%);
+}
+.client-list{
+    text-align: center;
+}
+.dxe-services .service{
+    width: calc(50% - 20px);
+    text-align: center;
+}
+.dxe-services .service-title{
+    color: #111;
+    font-weight: 600;
+    font-size: 25px;
+}
+.dxe-services .service-des{
+    color: #111;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 25px;
+}
+.dxe-services svg{
+    width: 50px;
+}
+.dxe-services .section-title{
+    margin-bottom: 60px!important;
+}

@@ -1,0 +1,127 @@
+@media (min-width:992px){
+    .client1,
+    .client2,
+    .client3,
+    .client4{
+        margin-bottom: 35px;
+    }
+    .dxe-image-text-one{
+        margin-bottom: 60px!important;
+    }
+}
+@media (min-width:768px){
+    .dxe-mobile-header{
+        display: none;
+    }
+    .dxe-one-left,
+    .dxe-one-right,
+    .dxe-two-left,
+    .dxe-two-right{
+        width: 45%;
+    }
+}
+@media (max-width:991px){
+    .footer__logo {
+        width: 30%;
+        padding-right: 12px;
+    }
+    .footer__nav{
+        width: 70%;
+    }
+    .footer__subscribe {
+        width: 100%;
+        padding: initial;
+    }
+    .footer__nav {
+        border-right: initial;
+        display: block;
+        padding-left: 25px;
+    }
+    .footer__subscribe-description{
+        margin-top: 25px;
+    }
+    .tesimonial-card{
+        width:calc(50% - 30px);
+    }
+    .client{
+        width: calc(33%);
+    }
+    .client1,
+    .client2,
+    .client3{
+        margin-bottom: 15px;
+    }
+}
+@media (max-width:767px){
+    .dxe-desktop-header{
+        display: none;
+    }
+    .home-header-content,
+    .dxe-button-wrap{
+        text-align: center;
+    }
+    .home-header-content__description {
+        padding-right: 0px;
+    }
+    .home-header-content__heading{
+        font-size: 35px;
+    }
+    .home-header-content__description {
+        font-size: 18px;
+    }
+    .dxe-one-left{
+        order:2;
+    }
+    .dxe-one-right{
+        order:1;
+        margin-bottom: 25px;
+    }
+    .dxe-two-left{
+        margin-bottom: 20px;
+    }
+    .image-text-title-one,
+    .image-text-title-two{
+        font-size: 19px;
+    }
+    .herofooter__heading{
+        font-size: 35px;
+        padding-left: initial;
+        padding-right: initial;
+    }
+    .tesimonial-card{
+        width:calc(100%);
+    }
+    .client{
+        width: calc(50%);
+    }
+    .client1,
+    .client2,
+    .client3{
+        margin-bottom: 0px;
+    }
+    .section-title {
+        font-size: 25px;
+    }
+    .image-text-des-one,
+    .image-text-des-two{
+        font-size: 14px;
+    }
+    .dxe-services .service{
+        width: calc(100%)!important;
+    }
+    .dxe-services .service:first-child{
+        margin-bottom: 50px;
+    }
+}
+@media (max-width:550px){
+    .client img{
+        width: 120px;
+    }
+    .client1,
+    .client2{
+        margin-bottom: 20px;
+    }
+    .dxe-image-text .section-title{
+        margin-bottom: 2rem!important;
+    }
+}
