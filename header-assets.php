@@ -1,7 +1,7 @@
 <!--========== HEADER ASSETS START ==========-->
-<title></title>
+<title>DigitX Events &#8211; Inspiring Innovation</title>
             <link rel="canonical" href="" />
-            <link rel="icon" href="">
+            <link rel="icon" href="img/x.png">
             <meta charset="utf-8">
             <meta http-equiv="X-UA-Compatible" content="IE=edge">
             <meta name="author" content="">
