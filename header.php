@@ -2,7 +2,7 @@
   <div class="container-fluid">
       <div class="row align-items-center">
           <div class="col-md-4 px-0">
-              <a href=""><img class="logo" src="https://digitxevents.com/wp-content/uploads/2021/07/cropped-EVENTS.png" alt="Digitx Events"></a>
+              <a href=""><img class="logo" src="img/logo.png" alt="Digitx Events"></a>
           </div>
 
           <div class="col-md-8 px-0 line-height-15">
