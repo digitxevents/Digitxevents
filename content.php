@@ -34,7 +34,7 @@
                 </div>
             </div> 
             <div class="dxe-one-right col-md-6">
-                <img src="https://i1.wp.com/digitxevents.com/wp-content/uploads/2021/08/electricity-electricity-pylons-power-lines-4666566.jpg?resize=450%2C233&ssl=1" alt="Our Story" width="100%" height="auto">
+                <img src="img/power-grid.webp" alt="Our Story" width="100%" height="auto">
             </div>
         </div>
 
@@ -42,7 +42,7 @@
 
         <div class="dxe-image-text-two row align-items-center justify-content-between">
             <div class="dxe-two-left col-md-6">
-                <img src="https://i1.wp.com/digitxevents.com/wp-content/uploads/2021/08/lines-transmission-user-5475657-e1631127238591-450x233.jpg?resize=450%2C233&ssl=1" alt="Our Events" width="100%" height="auto">
+                <img src="img/security.webp" alt="Our Events" width="100%" height="auto">
             </div>
             <div class="dxe-two-right col-md-6">
                 <h1 class="image-text-title-two mb-3">

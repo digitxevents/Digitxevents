@@ -22,11 +22,11 @@
 }
 @media (max-width:991px){
     .footer__logo {
-        width: 30%;
+        width: 50%;
         padding-right: 12px;
     }
     .footer__nav{
-        width: 70%;
+        width: 50%;
     }
     .footer__subscribe {
         width: 100%;
