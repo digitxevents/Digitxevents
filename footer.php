@@ -52,8 +52,9 @@
 
 <footer class="footer__copyright">
     <div class="container px-4">
-        <div class="footer__copyright-info">
-             © 2021 Digitx Events | All Rights Reserved
+        <div class="row footer__copyright-info">
+            <div class="col-12 col-md-6">© 2021 Digitx Events | All Rights Reserved</div>
+            <div class="col-12 col-md-6">Digitxevents is registered under Digitx LLC in this date of NYC</div>
         </div>
     </div>
 </footer>

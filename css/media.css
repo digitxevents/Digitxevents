@@ -19,6 +19,9 @@
     .dxe-two-right{
         width: 45%;
     }
+    .footer__copyright-info div:last-child{
+        text-align: right;
+    }
 }
 @media (max-width:991px){
     .footer__logo {
@@ -112,6 +115,9 @@
     .dxe-services .service:first-child{
         margin-bottom: 50px;
     }
+    .footer__copyright-info div:first-child{
+        margin-bottom: 10px;
+    }
 }
 @media (max-width:550px){
     .client img{
@@ -123,5 +129,13 @@
     }
     .dxe-image-text .section-title{
         margin-bottom: 2rem!important;
+    }
+}
+@media (max-width:375px){
+    .dxe__subscribe div:first-child{
+        width: 65%;
+    }
+    .dxe__subscribe div:last-child{
+        width: 35%;
     }
 }

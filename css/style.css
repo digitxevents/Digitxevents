@@ -249,11 +249,9 @@ svg{
     padding-bottom: 30px;
 }
 .footer__copyright-info {
-    font-size: 15px;
+    font-size: 12px;
     font-weight: 600;
-    text-align: left;
 }
-
 /**************************************************HOME PAGE CSS***********************************************/
 .dxe-hero-image{
     background: url('https://i1.wp.com/digitxevents.com/wp-content/uploads/2021/pro/hero-land.webp') no-repeat fixed 50% / cover;
