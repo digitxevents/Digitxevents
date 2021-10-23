@@ -70,7 +70,7 @@
         font-size: 35px;
     }
     .home-header-content__description {
-        font-size: 18px;
+        font-size: 16px;
     }
     .dxe-one-left{
         order:2;
@@ -107,7 +107,7 @@
     }
     .image-text-des-one,
     .image-text-des-two{
-        font-size: 14px;
+        font-size: 16px;
     }
     .dxe-services .service{
         width: calc(100%)!important;

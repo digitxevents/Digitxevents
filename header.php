@@ -2,19 +2,19 @@
   <div class="container-fluid">
       <div class="row align-items-center">
           <div class="col-md-4 px-0">
-              <a href=""><img class="logo" src="img/logo.png" alt="Digitx Events"></a>
+              <a href="http://localhost/digitxevents"><img class="logo" src="img/logo.png" alt="Digitx Events"></a>
           </div>
 
           <div class="col-md-8 px-0 line-height-15">
               <div class="dxe-sub-nav">
                   <ul class="sub-ul submain-ul">
                       <li>
-                          <a href="">About Us</a>
+                          <a href="http://localhost/digitxevents/about-us">About Us</a>
                       <li>
-                          <a href="">Contact Us</a>
+                          <a href="http://localhost/digitxevents/contact-us">Contact Us</a>
                       </li>
                       <li>
-                          <a href="">Policy</a>
+                          <a href="http://localhost/digitxevents/policy">Policy</a>
                       </li>
                   </ul>
               </div>
@@ -73,7 +73,7 @@
         </ul>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">POLICY</a>
+        <a class="nav-link" href="http://localhost/digitxevents/policy">POLICY</a>
       </li>
     </ul>
   </div>

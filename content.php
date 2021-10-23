@@ -5,7 +5,7 @@
         <div class="home-header-content">
             <h1 class="home-header-content__heading">Stay Connected</h1>
             <p class="home-header-content__description">
-                Digitx Events continues to facilitate business opportunities with our virtual events, connecting passionate global industry leaders through our advanced matchmaking platform
+                Digitx Events continues to facilitate business opportunities with our virtual events, connecting passionate global industry leaders through our advanced matchmaking platform.
             </p>
         </div>
         <div class="dxe-button-wrap">

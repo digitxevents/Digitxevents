@@ -81,7 +81,7 @@
     position: absolute;
     top: 33px;
     left: 15px;
-    background: #eee;
+    background: #fff;
     padding: 10px;
     z-index: 9999999;
 }
@@ -278,7 +278,7 @@ svg{
     color: #fff;
 }
 .home-header-content__description {
-    font-size: 25px;
+    font-size: 22px;
     line-height: 30px;
     padding-right: 30%;
     color: #fff;
@@ -298,7 +298,7 @@ svg{
     letter-spacing: .5px;
 }
 .dxe-button:hover{
-    background: #8f8f11;
+    background: #b0b012;
 }
 
 .dxe-image-text img{
@@ -374,7 +374,7 @@ svg{
     letter-spacing: .5px;
 }
 .herofooter_button:hover {
-    background: #8f8f11;
+    background: #b0b012;
 }
 .dxe-testimonial,
 .dxe-services{

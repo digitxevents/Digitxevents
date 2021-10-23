@@ -1,0 +1,28 @@
+.about-us{
+    background: #efefef;
+}
+.about-us .about-left img{
+    width: 100%;
+}
+.about-left{
+    width: 30%;
+}
+.about-right{
+    width: 60%;
+}
+.about-us h1{
+    font-size: 33px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+.about-us p{
+    font-size: 16px;
+}
+.about-right p{
+    font-size: 16px;
+    text-align: justify;
+}
+.about-us .innovation{
+    margin-top: 50px;
+}

@@ -2,7 +2,7 @@
     <div class="container px-4">
         <div class="footer__content">
             <div class="footer__logo">
-                <a href=""><img src="img/logo.png" alt="Digitx Events" class="footer__logo-image"></a>
+                <a href="http://localhost/digitxevents"><img src="img/logo.png" alt="Digitx Events" class="footer__logo-image"></a>
             </div>
             <div class="footer__nav">
                 <ul class="footer__main-nav">
