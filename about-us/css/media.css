@@ -22,7 +22,7 @@
     .about-us .innovation{
         margin-top: 30px;
     }
-    .about-us p{
-        text-align: justify;
+    .about-right p{
+        text-align: left;
     }
 }
