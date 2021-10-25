@@ -12,9 +12,9 @@
                     <li><a href="">Careers</a></li>
                 </ul>
                 <ul class="footer__main-nav">
-                    <li><a href="">About Us</a></li>
-                    <li><a href="">Contact Us</a></li>
-                    <li><a href="">Policy</a></li>
+                    <li><a href="http://localhost/digitxevents/about-us/">About Us</a></li>
+                    <li><a href="http://localhost/digitxevents/contact-us/">Contact Us</a></li>
+                    <li><a href="http://localhost/digitxevents/policy/">Policy</a></li>
                 </ul>
             </div>
             <div class="footer__subscribe">
