@@ -1,0 +1,12 @@
+@media(max-width:991px){
+    .contact-left{
+        width: 100%;
+        margin-bottom: 50px;
+      }
+      .contact-right{
+        width: 100%;
+      }
+      .contact-left img{
+          max-width: 400px;
+      }
+}
