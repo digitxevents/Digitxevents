@@ -1,29 +1,25 @@
-@media (min-width:1200px){
+/* MIN AND MAX */
+
+@media (min-width:576px) and (max-width:767px){
     .modal-dialog {
-        max-width: 1095px!important;
+        max-width: 510px!important;
     }
 }
-@media (min-width:992px){
-    .client1,
-    .client2,
-    .client3,
-    .client4{
-        margin-bottom: 35px;
-    }
-    .dxe-image-text-one{
-        margin-bottom: 60px!important;
-    }
-}
-@media (min-width:992px) and (max-width:1199px){
-    .modal-dialog {
-        max-width: 915px!important;
-    }
-}
+
 @media (min-width:768px) and (max-width:991px){
     .modal-dialog {
-        max-width: 675px!important;
+        max-width: 690px!important;
     }
 }
+
+@media (min-width:992px) and (max-width:1199px){
+    .modal-dialog {
+        max-width: 930px!important;
+    }
+}
+
+/* MIN WIDTH */
+
 @media (min-width:768px){
     .dxe-mobile-header{
         display: none;
@@ -37,8 +33,36 @@
     .footer__copyright-info div:last-child{
         text-align: right;
     }
-    
 }
+
+@media (min-width:992px){
+    .client1,
+    .client2,
+    .client3,
+    .client4{
+        margin-bottom: 35px;
+    }
+    .dxe-image-text-one{
+        margin-bottom: 60px!important;
+    }
+    .dxe-services .service{
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+}
+
+@media (min-width:1200px){
+    .modal-dialog {
+        max-width: 1110px!important;
+    }
+    .dxe-services .service{
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+}
+
+/* MAX WIDTH */
+
 @media (max-width:991px){
     .footer__logo {
         width: 50%;
@@ -71,6 +95,7 @@
         margin-bottom: 15px;
     }
 }
+
 @media (max-width:767px){
     .dxe-desktop-header{
         display: none;
@@ -125,9 +150,6 @@
     .image-text-des-two{
         font-size: 16px;
     }
-    .dxe-services .service{
-        width: calc(100%)!important;
-    }
     .dxe-services .service:first-child{
         margin-bottom: 50px;
     }
@@ -135,6 +157,13 @@
         margin-bottom: 10px;
     }
 }
+
+@media (max-width:575px){
+    .dxe-image-text .modal-dialog {
+        margin: 1rem!important;
+    }
+}
+
 @media (max-width:550px){
     .client img{
         width: 120px;
@@ -147,6 +176,7 @@
         margin-bottom: 2rem!important;
     }
 }
+
 @media (max-width:375px){
     .dxe__subscribe div:first-child{
         width: 65%;

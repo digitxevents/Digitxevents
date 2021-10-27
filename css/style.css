@@ -420,10 +420,6 @@ li:hover .dxe-dropdown{
 .client-list{
     text-align: center;
 }
-.dxe-services .service{
-    width: calc(50% - 20px);
-    text-align: center;
-}
 .dxe-services .service-title{
     color: #111;
     font-weight: 600;
@@ -443,4 +439,20 @@ li:hover .dxe-dropdown{
 }
 .dxe-image-text .modal {
     padding-right:0px!important;
+}
+.dxe-image-text .close {
+    color: red!important;
+    font-size: 1.7rem!important;
+    opacity: 1!important;
+    outline: none!important;
+    margin-top: -1.4rem!important;
+}
+a:hover{
+    text-decoration: none;
+}
+.dxe-image-text .modal-header {
+    border: none!important;
+}
+.dxe-image-text .modal-body {
+    padding-top: initial!important;
 }

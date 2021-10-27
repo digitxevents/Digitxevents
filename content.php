@@ -1,6 +1,6 @@
 <section class="dxe-hero-image">
     <div class="dxe-overlay"></div>
-    <div class="container px-4">
+    <div class="container px-3">
 
         <div class="home-header-content">
             <h1 class="home-header-content__heading">Stay Connected</h1>
@@ -17,7 +17,7 @@
 </section>
 
 <section class="dxe-image-text pb-3">
-    <div class="container py-5 px-4">
+    <div class="container py-5 px-3">
         <h1 class="text-center mb-5 section-title">Ongoing Training</h1>
         <div class="dxe-image-text-one row align-items-center justify-content-between mb-5">
             <div class="dxe-one-left col-md-6">
@@ -32,7 +32,7 @@
                         </a>
 
                         <!-- Modal One-->
-                        <div class="modal" id="event_1" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+                        <div class="modal fade" id="event_1" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
                             <div class="modal-dialog" role="document">
                                 <div class="modal-content">
                                     <div class="modal-header">
@@ -76,7 +76,7 @@
                     </a>
 
                     <!-- Modal Two-->
-                    <div class="modal" id="event_2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+                    <div class="modal fade" id="event_2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
                         <div class="modal-dialog" role="document">
                             <div class="modal-content">
                                 <div class="modal-header">
@@ -104,7 +104,7 @@
     <div class="container px-4 pb-3 pt-1">
         <h1 class="text-center mb-5 section-title">Why Choose<br>Digitx Events</h1>
         <div class="row align-items-center justify-content-between">
-            <div class="service">
+            <div class="service col-12 col-md-6 text-center">
                 <div class="service-icon">
                     <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                         viewBox="0 0 331.37 331.37" style="enable-background:new 0 0 331.37 331.37;" xml:space="preserve">
@@ -149,7 +149,7 @@
                 <div class="service-title mb-2 mt-3">Multiple Events</div>
                 <div class="service-des">We have conducted many technical courses such as Project Management, Digital Transformation, Blockchain, Cybersecurity, Digital Marketing, and so on...</div>
             </div>
-            <div class="service">
+            <div class="service col-12 col-md-6 text-center">
                 <div class="service-icon">                              
                     <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                         viewBox="0 0 489.62 489.62" style="enable-background:new 0 0 489.62 489.62;" xml:space="preserve">
@@ -207,7 +207,7 @@
 </section>-->
 
 <section class="dxe-clients py-5">
-    <div class="container px-4">
+    <div class="container">
         <h1 class="text-center mb-5 section-title">Our Clients</h1>
         <div class="client-list row align-items-center justify-content-around">
             <div class="client client1">
@@ -246,8 +246,7 @@
 </section>
 
 <section class="dxe-hero-footer">
-    <div></div>
-    <div class="hero-footer-bg col-12">
+    <div class="hero-footer-bg">
         <div class="container">
             <h5 class="herofooter__sub-heading">Interested in joining us?</h5>
             <h1 class="herofooter__heading">
