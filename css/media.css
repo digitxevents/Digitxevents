@@ -1,3 +1,8 @@
+@media (min-width:1200px){
+    .modal-dialog {
+        max-width: 1095px!important;
+    }
+}
 @media (min-width:992px){
     .client1,
     .client2,
@@ -7,6 +12,16 @@
     }
     .dxe-image-text-one{
         margin-bottom: 60px!important;
+    }
+}
+@media (min-width:992px) and (max-width:1199px){
+    .modal-dialog {
+        max-width: 915px!important;
+    }
+}
+@media (min-width:768px) and (max-width:991px){
+    .modal-dialog {
+        max-width: 675px!important;
     }
 }
 @media (min-width:768px){
@@ -22,6 +37,7 @@
     .footer__copyright-info div:last-child{
         text-align: right;
     }
+    
 }
 @media (max-width:991px){
     .footer__logo {

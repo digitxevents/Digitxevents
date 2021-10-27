@@ -24,12 +24,31 @@
                 <div class="dxe-left-content">
                     <h1 class="image-text-title-one mb-3">The Electric Power System & the Renewable Grid Impact</h1>
                     <div class="image-text-des-one">
-                    This workshop provides hands-on experience by analyzing how current renewable penetration has impacted the transmission and distribution grid from a voltage and thermal perspective...
+                        This workshop provides hands-on experience by analyzing how current renewable penetration has impacted the transmission and distribution grid from a voltage and thermal perspective...
                     </div>
                     <div class="image-text-button-one">
-                        <a href="" class="">
+                        <a href="" class="" data-toggle="modal" data-target="#event_1">
                             Read more
                         </a>
+
+                        <!-- Modal One-->
+                        <div class="modal" id="event_1" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+                            <div class="modal-dialog" role="document">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                            <span aria-hidden="true">&times;</span>
+                                        </button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <div><img src="img/power-grid.webp" alt="Our Story" width="100%" height="auto"></div>
+                                        
+                                        It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div> 
@@ -52,9 +71,28 @@
                     Cyberattacks are now one of the most warning issues around the globe. Every year only Ransomware attacks are estimated to cost $6 trillion according...
                 </div>
                 <div class="image-text-button-two">
-                    <a href="" class="">
+                    <a href="" class="" data-toggle="modal" data-target="#event_2">
                         Read more
                     </a>
+
+                    <!-- Modal Two-->
+                    <div class="modal" id="event_2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+                        <div class="modal-dialog" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    <div><img src="img/power-grid.webp" alt="Our Story" width="100%" height="auto"></div>
+                                    
+                                    It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>

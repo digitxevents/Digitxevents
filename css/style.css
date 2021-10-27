@@ -441,3 +441,6 @@ li:hover .dxe-dropdown{
 .dxe-services .section-title{
     margin-bottom: 60px!important;
 }
+.dxe-image-text .modal {
+    padding-right:0px!important;
+}
