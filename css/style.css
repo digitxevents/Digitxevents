@@ -255,7 +255,7 @@ li:hover .dxe-dropdown{
 }
 /**************************************************HOME PAGE CSS***********************************************/
 .dxe-hero-image{
-    background: url('https://i1.wp.com/digitxevents.com/wp-content/uploads/2021/pro/hero-land.webp') no-repeat fixed 50% / cover;
+    background: url('../img/hero-land-1.webp') no-repeat fixed 50% / cover;
     width:100%;
     padding: 140px 0 210px;
     position: relative;
@@ -329,7 +329,7 @@ li:hover .dxe-dropdown{
     border: none;
 }
 .hero-footer-bg{
-    background: url('https://i1.wp.com/digitxevents.com/wp-content/uploads/2021/pro/hero-footer.webp')  no-repeat fixed 50% / cover;
+    background: url('../img/hero-footer-1.webp')  no-repeat fixed 50% / cover;
     background-size: cover;
     color: #fff;
     padding: 90px 15px 140px;

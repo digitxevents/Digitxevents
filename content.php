@@ -77,7 +77,7 @@
                 </div>
             </div> 
             <div class="dxe-one-right col-md-6">
-                <img src="img/power-grid.webp" alt="Our Story" width="100%" height="auto">
+                <img src="img/power-grid-1.webp" alt="Our Story" width="100%" height="auto">
             </div>
         </div>
 
@@ -85,7 +85,7 @@
 
         <div class="dxe-image-text-two row align-items-center justify-content-between">
             <div class="dxe-two-left col-md-6">
-                <img src="img/security.webp" alt="Our Events" width="100%" height="auto">
+                <img src="img/security-1.webp" alt="Our Events" width="100%" height="auto">
             </div>
             <div class="dxe-two-right col-md-6">
                 <h1 class="image-text-title-two mb-3">
