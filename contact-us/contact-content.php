@@ -36,27 +36,28 @@
 				</div>
 			</div>
 			<div class="contact-right">
-				<form action="form.php" method="post">
+				<form id="dxe_form" autocomplete="off">
 					<h1 class="title text-center mb-4">Get in touch</h1>
 					<!-- Name -->
 					<div class="form-group position-relative">
-						<input type="text" name="name" id="formName" class="form-control form-control-lg thick" placeholder="Name">
+						<input required type="text" name="name" id="formName" class="form-control form-control-lg thick" placeholder="Name">
 					</div>
 
 					<!-- E-mail -->
 					<div class="form-group position-relative">
-						<input type="email"  name="email" id="formEmail" class="form-control form-control-lg thick" placeholder="Email">
+						<input required type="email"  name="email" id="formEmail" class="form-control form-control-lg thick" placeholder="Email">
 					</div>
 
 					<!-- Message -->
 					<div class="form-group message position-relative">
-						<textarea id="formMessage"  name="message" class="form-control form-control-lg" rows="7" placeholder="Message"></textarea>
+						<textarea required id="formMessage"  name="message" class="form-control form-control-lg" rows="7" placeholder="Message"></textarea>
 					</div>
 				
 					<!-- Submit btn -->
 					<div class="text-center submit-button">
-						<button type="submit" class="btn btn-primary" tabIndex="-1">Send Message</button>
+						<input type="submit" id="send-button" value="Send Message">
 					</div>
+					<div id="thankyou"></div>
 				</form>
 			</div>
 		</div>

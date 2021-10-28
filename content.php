@@ -92,7 +92,7 @@
                     Cyber Security Strategies & Integration
                 </h1>
                 <div class="image-text-des-two">
-                    Cyberattacks are now one of the most warning issues around the globe. Every year only Ransomware attacks are estimated to cost $6 trillion according...
+                The Cybersecurity Strategies & Integration Workshop is a high-energy, facilitated experience that provides you cutting-edge insights into the intricacies of cybersecurity. You gain the tools you need to lead and manage your business amid the constant...
                 </div>
                 <div class="image-text-button-two">
                     <a href="" class="" data-bs-toggle="modal" data-bs-target="#event_2">
@@ -108,32 +108,26 @@
                                     <div class="modal-body">
                                         <h1 class="image-text-title-one mb-3">Cyber Security Strategies & Integration</h1>
                                         <div>
-                                            <p>The Transmission & Distribution Systems Reliability & System Protection Workshop is a high-energy, facilitated experience that provides you cutting-edge insights into the intricacies of the reliability of the transmission and distribution system and the critical role system protection play in securing the grid and ensuring the reliability of the grid. Typical distribution circuits do not have the same capability/reliability or length as typical transmission circuits. The transmission system reliability varies based on the transmission substation design and the design of the transmission circuit whether overhead or underground. This course will compare substation designs, impact of weather on the circuit reliability and common modes of failure. This course will introduce the 5-35 kV class known as the medium voltage system, the impact of different weather patterns on various distribution designs as well as the impact of various faults from a substation and circuit level.Various transmission voltages will be analyzed.</p>
-                                            <p>This course will also analyze common reliability indices and how to improve them. Super storm Sandy stressed the importance of system protection and how the system went haywire when the relays were not available to provide their essential function. In order to ensure a reliable energy system, it is critical to understand the building block of the electric utility power system.</p>
+                                            <p>The Cybersecurity Strategies & Integration Workshop is a high-energy, facilitated experience that provides you cutting-edge insights into the intricacies of cybersecurity. You gain the tools you need to lead and manage your business amid the constant onslaught of cyberattacks. We help translate the technological underpinnings of cyberspace and cybersecurity into usable principles that will inform strategic choices and the tactical decisions that protect your company, critical infrastructure, and sensitive data.</p>
+                                            <p>Cyberattacks pose an unprecedented threat to organizations of all sizes and types. Whether due to espionage, ransomware, political retribution, random acts, and outright theft of key technology, cyber-attacks cripple small, medium and large organizations. The staggering number of attacks, coupled with their devastating severity, means that leaders need to act decisively to protect their interests and employees from these threats.</p>
+                                            <p>Today’s enterprises need executives, senior administrators, and engineers who understand cybersecurity, can effectively build strategies to protect their business and can work collaboratively to respond when attacks occur. To do this, leaders must have the tools to make strategic decisions and to invest wisely in cybersecurity controls. In this course, you’ll analyze organizational security leadership responsibilities no matter your role to balance risks and costs against internal and external threats.</p>
                                         </div>
-                                        <p class="fw-bold">You will gain the tools you need to understand the following key concepts:</p>
+                                        <p class="fw-bold">Key Questions Addressed:</p>
                                         <div class="col-12">
                                             <ul>
-                                                <li>Key components of the distribution system</li>
-                                                <li>Advantages and disadvantages of the overhead and underground transmission and distribution systems</li>
-                                                <li>The impact of the weather on the transmission and distribution system reliability</li>
-                                                <li>Key characteristics of a common substation design</li>
-                                                <li>Comparison of various substation designs</li>
-                                                <li>A comparison of indices that are utilized to measure system reliability</li>
-                                                <li>How emergency ties along radial circuits are used to increase distribution reliability</li>
-                                                <li>What are common emergency measures utilized in the transmission system</li>
-                                                <li>Common causes of faults</li>
-                                                <li>How relays operate and what they are used for</li>
-                                                <li>Characteristics of underground (UG) vs. overhead (OH) systems</li>
-                                                <li>The importance of providing overcurrent protection to prevent injury to people </li>
-                                                <li>Seven characteristics to consider when selecting a relay</li>
-                                                <li>How zones of protection operate</li>
-                                                <li>Important concepts of the fuse curve</li>
-                                                <li>How instrument transformers are used to communicate with relays</li>
+                                                <li>What are the current cyber risks to our company, our products, or critical infrastructure?</li>
+                                                <li>What scenarios are possible?</li>
+                                                <li>What are we doing to manage these risks?</li>
+                                                <li>What is our plan to respond to an attack? Have we pressure-tested it?</li>
+                                                <li>How well informed is our executive leadership or key stakeholders in managing cyber risks and impacts?</li>
+                                                <li>What are the industry best practices and standards that we should use in our cybersecurity strategy?</li>
+                                                <li>How do we manage the cyber risks with our supply chain and partners?</li>
+                                                <li>How is the performance of our security team evaluated?</li>
+                                                <li>How can I help keep my organization out of the news for a cyber breach?</li>
                                             </ul>
                                         </div>
                                         <div class="fw-bold mb-2">WHO SHOULD ATTEND:</div>
-                                        <p>Executives, directors, senior managers, senior engineers, engineers, students, etc. in the utility, energy, environmental, IT, renewable, and climate-related fields who want to gain the foundational electric power system reliability knowledge that is necessary for the future energy systems.</p>
+                                        <p>Executives, directors and senior managers will gain the foundational knowledge necessary to make informed strategic decisions regarding cybersecurity. Participants are expected to have a basic understanding of information systems and technologies.</p>
                                     </div>
                                     
                                 </div>

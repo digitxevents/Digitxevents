@@ -2,19 +2,19 @@
     <div class="container px-3">
         <div class="footer__content">
             <div class="footer__logo">
-                <a href="http://localhost/digitxevents"><img src="img/logo.png" alt="Digitx Events" class="footer__logo-image"></a>
+                <a href="https://digitxevents.com/"><img src="img/logo.png" alt="Digitx Events" class="footer__logo-image"></a>
             </div>
             <div class="footer__nav">
                 <ul class="footer__main-nav">
-                    <li><a href="">Home</a></li>
+                    <li><a href="https://digitxevents.com/">Home</a></li>
                     <li><a href="">Events</a></li>
                     <li><a href="">Insights</a></li>
                     <li><a href="">Careers</a></li>
                 </ul>
                 <ul class="footer__main-nav">
-                    <li><a href="http://localhost/digitxevents/about-us/">About Us</a></li>
-                    <li><a href="http://localhost/digitxevents/contact-us/">Contact Us</a></li>
-                    <li><a href="http://localhost/digitxevents/policy/">Policy</a></li>
+                    <li><a href="https://digitxevents.com/about-us/">About Us</a></li>
+                    <li><a href="https://digitxevents.com/contact-us/">Contact Us</a></li>
+                    <li><a href="https://digitxevents.com/policy/">Policy</a></li>
                 </ul>
             </div>
             <div class="footer__subscribe">

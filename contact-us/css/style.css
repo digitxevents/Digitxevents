@@ -46,7 +46,7 @@
     top: 1.1rem;
   }
   
-  .contact-us .btn.btn-primary {
+  .contact-us #send-button {
     font-family: "Quicksand", sans-serif;
     font-weight: bold;
     height: 2.5rem;
@@ -57,9 +57,10 @@
     background-image: linear-gradient(131deg, #ffd340, #ff923c, #ff923c, #ff923c);
     background-size: 300% 100%;
     transition: all 0.3s ease-in-out;
+    color:#fff;
   }
   
-  .contact-us .btn.btn-primary:hover:enabled {
+  .contact-us #send-button {
     box-shadow: 0 0.5em 0.5em -0.4em #ff923cba;
     background-size: 100% 100%;
   }
@@ -87,4 +88,25 @@
 }
 .submit-button button{
   margin-top: 15px;
+}
+#thankyou{
+  text-align: center;
+  color: green;
+  margin-top: 20px;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+#thankyou{
+  animation: thankyou 3s infinite;
+}
+@keyframes thankyou{
+  0% {
+      opacity: 1;
+  }
+  50%{
+      opacity: 0;
+  }
+  100% {
+      opacity: 1;
+  }
 }
