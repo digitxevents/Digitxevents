@@ -22,9 +22,9 @@
         <div class="dxe-image-text-one row align-items-center justify-content-between mb-5">
             <div class="dxe-one-left col-md-6">
                 <div class="dxe-left-content">
-                    <h1 class="image-text-title-one mb-3">The Electric Power System & the Renewable Grid Impact</h1>
+                    <h1 class="image-text-title-one mb-3">Transmission & Distribution Systems Reliability & System Protection</h1>
                     <div class="image-text-des-one">
-                        This workshop provides hands-on experience by analyzing how current renewable penetration has impacted the transmission and distribution grid from a voltage and thermal perspective...
+                    The Transmission & Distribution Systems Reliability & System Protection Workshop is a high-energy, facilitated experience that provides you cutting-edge insights into the intricacies of the reliability of the transmission and distribution system...
                     </div>
                     <div class="image-text-button-one">
                         <a href="" class="" data-toggle="modal" data-target="#event_1">
@@ -41,9 +41,34 @@
                                         </button>
                                     </div>
                                     <div class="modal-body">
-                                        <div><img src="img/power-grid.webp" alt="Our Story" width="100%" height="auto"></div>
-                                        
-                                        It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+                                        <h1 class="image-text-title-one mb-3">Transmission &amp; Distribution Systems Reliability &amp; System Protection</h1>
+                                        <div>
+                                            <p>The Transmission & Distribution Systems Reliability & System Protection Workshop is a high-energy, facilitated experience that provides you cutting-edge insights into the intricacies of the reliability of the transmission and distribution system and the critical role system protection play in securing the grid and ensuring the reliability of the grid. Typical distribution circuits do not have the same capability/reliability or length as typical transmission circuits. The transmission system reliability varies based on the transmission substation design and the design of the transmission circuit whether overhead or underground. This course will compare substation designs, impact of weather on the circuit reliability and common modes of failure. This course will introduce the 5-35 kV class known as the medium voltage system, the impact of different weather patterns on various distribution designs as well as the impact of various faults from a substation and circuit level.Various transmission voltages will be analyzed.</p>
+                                            <p>This course will also analyze common reliability indices and how to improve them. Super storm Sandy stressed the importance of system protection and how the system went haywire when the relays were not available to provide their essential function. In order to ensure a reliable energy system, it is critical to understand the building block of the electric utility power system.</p>
+                                        </div>
+                                        <p class="font-weight-bold">You will gain the tools you need to understand the following key concepts:</p>
+                                        <div class="col-12">
+                                            <ul>
+                                                <li>Key components of the distribution system</li>
+                                                <li>Advantages and disadvantages of the overhead and underground transmission and distribution systems</li>
+                                                <li>The impact of the weather on the transmission and distribution system reliability</li>
+                                                <li>Key characteristics of a common substation design</li>
+                                                <li>Comparison of various substation designs</li>
+                                                <li>A comparison of indices that are utilized to measure system reliability</li>
+                                                <li>How emergency ties along radial circuits are used to increase distribution reliability</li>
+                                                <li>What are common emergency measures utilized in the transmission system</li>
+                                                <li>Common causes of faults</li>
+                                                <li>How relays operate and what they are used for</li>
+                                                <li>Characteristics of underground (UG) vs. overhead (OH) systems</li>
+                                                <li>The importance of providing overcurrent protection to prevent injury to people </li>
+                                                <li>Seven characteristics to consider when selecting a relay</li>
+                                                <li>How zones of protection operate</li>
+                                                <li>Important concepts of the fuse curve</li>
+                                                <li>How instrument transformers are used to communicate with relays</li>
+                                            </ul>
+                                        </div>
+                                        <div class="font-weight-bold mb-2">WHO SHOULD ATTEND:</div>
+                                        <p>Executives, directors, senior managers, senior engineers, engineers, students, etc. in the utility, energy, environmental, IT, renewable, and climate-related fields who want to gain the foundational electric power system reliability knowledge that is necessary for the future energy systems.</p>
                                     </div>
                                     
                                 </div>
@@ -77,22 +102,50 @@
 
                     <!-- Modal Two-->
                     <div class="modal fade" id="event_2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
-                        <div class="modal-dialog" role="document">
-                            <div class="modal-content">
-                                <div class="modal-header">
-                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                        <span aria-hidden="true">&times;</span>
-                                    </button>
-                                </div>
-                                <div class="modal-body">
-                                    <div><img src="img/power-grid.webp" alt="Our Story" width="100%" height="auto"></div>
+                            <div class="modal-dialog" role="document">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                            <span aria-hidden="true">&times;</span>
+                                        </button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <h1 class="image-text-title-one mb-3">Cyber Security Strategies & Integration</h1>
+                                        <div>
+                                            <p>The Transmission & Distribution Systems Reliability & System Protection Workshop is a high-energy, facilitated experience that provides you cutting-edge insights into the intricacies of the reliability of the transmission and distribution system and the critical role system protection play in securing the grid and ensuring the reliability of the grid. Typical distribution circuits do not have the same capability/reliability or length as typical transmission circuits. The transmission system reliability varies based on the transmission substation design and the design of the transmission circuit whether overhead or underground. This course will compare substation designs, impact of weather on the circuit reliability and common modes of failure. This course will introduce the 5-35 kV class known as the medium voltage system, the impact of different weather patterns on various distribution designs as well as the impact of various faults from a substation and circuit level.Various transmission voltages will be analyzed.</p>
+                                            <p>This course will also analyze common reliability indices and how to improve them. Super storm Sandy stressed the importance of system protection and how the system went haywire when the relays were not available to provide their essential function. In order to ensure a reliable energy system, it is critical to understand the building block of the electric utility power system.</p>
+                                        </div>
+                                        <p class="font-weight-bold">You will gain the tools you need to understand the following key concepts:</p>
+                                        <div class="col-12">
+                                            <ul>
+                                                <li>Key components of the distribution system</li>
+                                                <li>Advantages and disadvantages of the overhead and underground transmission and distribution systems</li>
+                                                <li>The impact of the weather on the transmission and distribution system reliability</li>
+                                                <li>Key characteristics of a common substation design</li>
+                                                <li>Comparison of various substation designs</li>
+                                                <li>A comparison of indices that are utilized to measure system reliability</li>
+                                                <li>How emergency ties along radial circuits are used to increase distribution reliability</li>
+                                                <li>What are common emergency measures utilized in the transmission system</li>
+                                                <li>Common causes of faults</li>
+                                                <li>How relays operate and what they are used for</li>
+                                                <li>Characteristics of underground (UG) vs. overhead (OH) systems</li>
+                                                <li>The importance of providing overcurrent protection to prevent injury to people </li>
+                                                <li>Seven characteristics to consider when selecting a relay</li>
+                                                <li>How zones of protection operate</li>
+                                                <li>Important concepts of the fuse curve</li>
+                                                <li>How instrument transformers are used to communicate with relays</li>
+                                            </ul>
+                                        </div>
+                                        <div class="font-weight-bold mb-2">WHO SHOULD ATTEND:</div>
+                                        <p>Executives, directors, senior managers, senior engineers, engineers, students, etc. in the utility, energy, environmental, IT, renewable, and climate-related fields who want to gain the foundational electric power system reliability knowledge that is necessary for the future energy systems.</p>
+                                    </div>
                                     
-                                    It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
                                 </div>
-                                
                             </div>
                         </div>
-                    </div>
+
+
+                    
                 </div>
             </div>
         </div>

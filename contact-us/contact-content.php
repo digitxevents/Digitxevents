@@ -36,7 +36,7 @@
 				</div>
 			</div>
 			<div class="contact-right">
-				<form>
+				<form action="" method="post">
 					<h1 class="title text-center mb-4">Get in touch</h1>
 					<!-- Name -->
 					<div class="form-group position-relative">

@@ -28,7 +28,7 @@
                         <div class="col-auto">
                             <input type="email" class="form-control" id="" placeholder="Email...">
                         </div>
-                        <div class="col-auto pl-0">
+                        <div class="col-auto pl-1">
                             <button type="submit" class="btn btn-primary">SIGN-UP</button>
                         </div>
                     </form>
