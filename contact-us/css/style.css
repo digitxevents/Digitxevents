@@ -45,24 +45,22 @@
     left: 1.5rem;
     top: 1.1rem;
   }
-  
   .contact-us #send-button {
-    font-family: "Quicksand", sans-serif;
-    font-weight: bold;
-    height: 2.5rem;
-    line-height: 2.5rem;
-    padding: 0 3rem;
-    border: 0;
-    border-radius: 3rem;
-    background-image: linear-gradient(131deg, #ffd340, #ff923c, #ff923c, #ff923c);
-    background-size: 300% 100%;
-    transition: all 0.3s ease-in-out;
-    color:#fff;
+    text-decoration: none;
+    padding: 12px 20px;
+    font-weight: 600;
+    font-size: 16px;
+    transition: all 0.3s ease;
+    letter-spacing: 1px;
+    color: #fff;
+    background: #212529;
+    border-radius: 50px;
+    border: 2px solid #212529;
+    margin-top: 10px;
   }
-  
-  .contact-us #send-button {
-    box-shadow: 0 0.5em 0.5em -0.4em #ff923cba;
-    background-size: 100% 100%;
+  .contact-us #send-button:hover {
+    color: #212529;
+    background: #fff;
   }
   .contact-left{
     width: 45%;
