@@ -36,27 +36,21 @@
 				</div>
 			</div>
 			<div class="contact-right">
-				<form action="" method="post">
+				<form action="form.php" method="post">
 					<h1 class="title text-center mb-4">Get in touch</h1>
 					<!-- Name -->
 					<div class="form-group position-relative">
-						<label for="formName" class="d-block">
-							<i class="icon" data-feather="user"></i>
-						</label>
-						<input type="text" id="formName" class="form-control form-control-lg thick" placeholder="Name">
+						<input type="text" name="name" id="formName" class="form-control form-control-lg thick" placeholder="Name">
 					</div>
 
 					<!-- E-mail -->
 					<div class="form-group position-relative">
-						<label for="formEmail" class="d-block">
-							<i class="icon" data-feather="mail"></i>
-						</label>
-						<input type="email" id="formEmail" class="form-control form-control-lg thick" placeholder="Email">
+						<input type="email"  name="email" id="formEmail" class="form-control form-control-lg thick" placeholder="Email">
 					</div>
 
 					<!-- Message -->
-					<div class="form-group message">
-						<textarea id="formMessage" class="form-control form-control-lg" rows="7" placeholder="Message"></textarea>
+					<div class="form-group message position-relative">
+						<textarea id="formMessage"  name="message" class="form-control form-control-lg" rows="7" placeholder="Message"></textarea>
 					</div>
 				
 					<!-- Submit btn -->
