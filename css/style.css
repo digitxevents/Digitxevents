@@ -429,13 +429,6 @@ li:hover .dxe-dropdown{
 .dxe-services .section-title{
     margin-bottom: 60px!important;
 }
-.dxe-image-text .close {
-    color: red!important;
-    font-size: 2.2rem!important;
-    opacity: 1!important;
-    outline: none!important;
-    margin-top: -1.4rem!important;
-}
 .dxe-image-text .modal{
     padding-right: 0px!important;
 }
