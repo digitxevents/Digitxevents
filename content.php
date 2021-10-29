@@ -252,35 +252,35 @@
         <h1 class="text-center mb-5 section-title">Our Clients</h1>
         <div class="client-list row align-items-center justify-content-around">
             <div class="client client1">
-                <img src="https://i2.wp.com/digitxevents.com/wp-content/uploads/2021/09/kengen-logo-removebg-preview.png?resize=150%2C150&ssl=1" alt="Client" width="auto" height="auto">
+                <img src="img/client-1.png" alt="Client" width="auto" height="auto">
             </div>
         
             <div class="client client2">
-                <img src="https://i0.wp.com/digitxevents.com/wp-content/uploads/2021/09/Energy-Market-Authority-removebg-preview.png?resize=150%2C150&ssl=1" alt="Client" width="auto" height="auto">
+                <img src="img/client-2.png" alt="Client" width="auto" height="auto">
             </div>
         
             <div class="client client3">
-                <img src="https://i2.wp.com/digitxevents.com/wp-content/uploads/2021/09/cover_image.jpg.760x400_q85_crop_upscale-removebg-preview-1.png?resize=150%2C150&ssl=1" alt="Client" width="auto" height="auto">
+                <img src="img/client-3.png" alt="Client" width="auto" height="auto">
             </div>
       
             <div class="client client4">
-                <img src="https://i1.wp.com/digitxevents.com/wp-content/uploads/2021/09/Bui_Power_Authority-removebg-preview.png?resize=150%2C150&ssl=1" alt="Client" width="auto" height="auto">
+                <img src="img/client-4.png" alt="Client" width="auto" height="auto">
             </div>
 
             <div class="client client5">
-                <img src="https://i1.wp.com/digitxevents.com/wp-content/uploads/2021/09/rsz_60efe9723be3d0c40be75350_mekdam-holding-group-logo.png?resize=162%2C48&ssl=1" alt="Client" width="auto" height="auto">
+                <img src="img/client-5.png" alt="Client" width="auto" height="auto">
             </div>
 
             <div class="client client6">
-                <img src="https://i2.wp.com/digitxevents.com/wp-content/uploads/2021/09/ezgif.com-gif-maker-removebg-preview.png?resize=150%2C150&ssl=1" alt="Client" width="auto" height="auto">
+                <img src="img/client-6.png" alt="Client" width="auto" height="auto">
             </div>
 
             <div class="client client7">
-                <img src="https://i0.wp.com/digitxevents.com/wp-content/uploads/2021/09/nb-service-centre-1-1.png?resize=150%2C150&ssl=1" alt="Client" width="auto" height="auto">
+                <img src="img/client-7.png" alt="Client" width="auto" height="auto">
             </div>
 
             <div class="client client8">
-                <img src="https://i1.wp.com/digitxevents.com/wp-content/uploads/2021/09/Electricity-Transmission-Company-removebg-preview.png?resize=150%2C150&ssl=1" alt="Client" width="auto" height="auto">
+                <img src="img/client-8.png" alt="Client" width="auto" height="auto">
             </div>
         </div>
     </div>

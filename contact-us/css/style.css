@@ -87,6 +87,10 @@
 .submit-button button{
   margin-top: 15px;
 }
+.contact-us a{
+  text-decoration: none;
+  color: inherit;
+}
 #thankyou{
   text-align: center;
   color: green;
