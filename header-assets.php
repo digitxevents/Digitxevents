@@ -11,12 +11,12 @@
             
             <!--===== FACEBOOK OPEN GRAPH TAG =====-->
             <meta property="og:type" content="website" />
-            <meta property="og:site_name" content="" />
-            <meta property="og:url" content="" />
-            <meta property="og:title" content="" />
+            <meta property="og:site_name" content="Digit Events" />
+            <meta property="og:url" content="https://digitxevents.com" />
+            <meta property="og:title" content="Digitx Events - Inspiring Innovation" />
             <meta property="og:description" content="" />
-            <meta property="og:image" content="" />
-            <meta property="og:image:alt" content="" />
+            <meta property="og:image" content="img/hero-land-1.webp" />
+            <meta property="og:image:alt" content="Digitx Events" />
             <meta property="og:locale" content="en_US" />
             
             <!--===== TWITTER CARD TAG =====-->
