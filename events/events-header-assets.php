@@ -1,5 +1,5 @@
 <!--========== HEADER ASSETS START ==========-->
-            <title>Policy - Digitx Events</title>
+            <title>Events - Digitx Events</title>
             <link rel="canonical" href="" />
             <link rel="icon" href="img/x.png">
             <meta charset="utf-8">
@@ -17,7 +17,6 @@
             <link rel="stylesheet" href="../css/device.css">
             <link rel="stylesheet" href="css/style.css">
             <link rel="stylesheet" href="css/media.css">
-            
         <!--========== HEADER ASSETS END ==========-->
             
             

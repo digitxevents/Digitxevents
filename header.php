@@ -9,12 +9,12 @@
               <div class="dxe-sub-nav">
                   <ul class="sub-ul submain-ul">
                       <li>
-                          <a href="https://digitxevents.com/about-us">About Us</a>
+                          <a href="https://digitxevents.com/about-us/">About Us</a>
                       <li>
-                          <a href="https://digitxevents.com/contact-us">Contact Us</a>
+                          <a href="https://digitxevents.com/contact-us/">Contact Us</a>
                       </li>
                       <li>
-                          <a href="https://digitxevents.com/policy">Policy</a>
+                          <a href="https://digitxevents.com/policy/">Policy</a>
                       </li>
                   </ul>
               </div>
@@ -24,21 +24,20 @@
                       <li>
                           <a class="hover-under-effect" href="https://digitxevents.com/">Home</a>
                       <li>
-                          <a href="">Events</a>
-                          
+                          <a href="https://digitxevents.com/events/">Events</a>                         
                       </li>
                       <li>
-                          <a href="">Insights <img class="caret-image" src="img/down-arrow.png"></a>
-                          <div class="dxe-dropdown">
+                          <a href="https://digitxevents.com/blogs/">Blogs <!--<img class="caret-image" src="img/down-arrow.png">--></a>
+                          <!--<div class="dxe-dropdown">
                               <ul>
                                   <li><a href="">Article</a></li>
                                   <li><a href="">Reports</a></li>
                                   <li><a href="">ME BROADCAST</a></li>
                               </ul>
-                          </div>
+                          </div>-->
                       </li>
                       <li>
-                          <a href="">Careers</a>                           
+                          <a href="https://digitxevents.com/careers/">Careers</a>                           
                       </li>
                   </ul>
               </div>
@@ -60,20 +59,20 @@
           <a class="nav-link active" aria-current="page" href="https://digitxevents.com/">HOME</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="">EVENTS</a>
+          <a class="nav-link" href="https://digitxevents.com/events/">EVENTS</a>
         </li>
         <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            INSIGHTS
+          <a class="nav-link " href="https://digitxevents.com/blogs/" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            BLOGS
           </a>
-          <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+          <!--<ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
             <li><a class="dropdown-item" href="">ARTICLE</a></li>
             <li><a class="dropdown-item" href="">REPORTS</a></li>
             <li><a class="dropdown-item" href="">ME BROADCAST</a></li>
-          </ul>
+          </ul>-->
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="">CAREERS</a>
+          <a class="nav-link" href="https://digitxevents.com/careers/">CAREERS</a>
         </li>
       </ul>
     </div>

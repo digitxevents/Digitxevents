@@ -7,9 +7,9 @@
             <div class="footer__nav">
                 <ul class="footer__main-nav">
                     <li><a href="https://digitxevents.com/">Home</a></li>
-                    <li><a href="">Events</a></li>
-                    <li><a href="">Insights</a></li>
-                    <li><a href="">Careers</a></li>
+                    <li><a href="https://digitxevents.com/events/">Events</a></li>
+                    <li><a href="https://digitxevents.com/blogs/">Blogs</a></li>
+                    <li><a href="https://digitxevents.com/careers/">Careers</a></li>
                 </ul>
                 <ul class="footer__main-nav">
                     <li><a href="https://digitxevents.com/about-us/">About Us</a></li>
