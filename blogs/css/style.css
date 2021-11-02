@@ -1,0 +1,9 @@
+.dxe-blogs{
+    background: #efefef;
+}
+.dxe-blogs .card-calc{
+    width: calc(33% - 10px);
+}
+.dxe-blogs .card p span a{
+    text-decoration: none!important;
+}

@@ -1,0 +1,17 @@
+@media(max-width:1199px){
+    .dxe-blogs .card-calc{
+        width: calc(50% - 10px);
+    }
+}
+@media(max-width:767px){
+    .dxe-blogs .card-calc{
+        width: calc(100%);
+    }
+    .dxe-blogs .container.py-5{
+        padding-top:30px!important;
+        padding-bottom:30px!important;
+    }
+    .dxe-blogs h1{
+        margin-bottom: 30px!important;
+    }
+}
